@@ -151,6 +151,6 @@ Database → DAO → Service → UI (Output Display)
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Poornima
 
 Your Name
