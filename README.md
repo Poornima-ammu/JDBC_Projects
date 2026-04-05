@@ -149,8 +149,7 @@ JDBC_Projects/
 ## 👨‍💻 Contributors
 
 - Poornima C
-- Sangamesh Biradar
-- Thanisha M Shetty
+
 
 ---
 
